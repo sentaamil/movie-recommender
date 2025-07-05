@@ -42,7 +42,7 @@ The **AI Movie Recommender** suggests the **top 5 similar movies** based on your
 
 Check out the live version here (if deployed):
 
-> 🔗 [Live App on Streamlit Cloud](https://your-streamlit-url.streamlit.app)
+> 🔗 [Live App on Streamlit Cloud](https://movie-recommender-epusg49fftid97o3mynz6k.streamlit.app/)
 
 ---
 
