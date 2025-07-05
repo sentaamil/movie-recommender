@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/sentaamil/movie-recommender">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/your-username/movie-recommender?style=social">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/sentaamil/movie-recommender?style=social">
   </a>
   <a href="https://streamlit.io">
     <img alt="Made with Streamlit" src="https://img.shields.io/badge/Made%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white">
