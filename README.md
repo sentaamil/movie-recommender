@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username/movie-recommender">
+  <a href="https://github.com/sentaamil/movie-recommender">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/your-username/movie-recommender?style=social">
   </a>
   <a href="https://streamlit.io">
