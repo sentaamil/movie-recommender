@@ -125,4 +125,4 @@ OpenAI – for brainstorming logic ✨
 This project is licensed under the MIT License.
 Feel free to use, modify, and share.
 
-<p align="center"> <b>Made with ❤️ by [Your Name]</b><br> <a href="https://github.com/sentaamil/movie-recommender">github.com/sentaamil</a> </p> ```
+<p align="center"> <b>Made with ❤️ by [Sentamil Mukilan.R.M]</b><br> <a href="https://github.com/sentaamil/movie-recommender">github.com/sentaamil</a> </p> ```
